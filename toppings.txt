@@ -1,0 +1,5 @@
+rawonions,grilledonions,pickles,redonions,lettuce,tomato,cheddar,mozzarella,swiss,pepperjack,bacon
+peppers,jalepenos,onionring,olives,mushrooms,sauteedmushrooms
+gouda,fries,sweetpotatofries,potatochips,hashbrown,ham,pretzels,potatosticks,grilledcorn,cucumbers
+avocado,coleslaw,chilli,salami,macncheese
+doritos,egg
