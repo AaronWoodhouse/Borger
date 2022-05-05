@@ -1,8 +1,3 @@
-### Issues ###
-# unwanted random.seed() update?
-# cant deal with multiple meats
-
-
 import csv
 import random
 
