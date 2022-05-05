@@ -1,7 +1,6 @@
 import csv
 import random
 
-
 class Borger:
 
     def __init__(self, num_meat, num_sauce, num_toppings, cursedlvl):
@@ -19,7 +18,7 @@ class Borger:
             How cursed (weird) the borger will be.
 
         """
-        random.seed()  # could be an unwanted seed update for other files?
+        random.seed()
         self.cursedlvl = cursedlvl
         self.bun = self.bun()
         self.meat = self.meat(num_meat)
